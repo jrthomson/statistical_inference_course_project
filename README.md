@@ -1,3 +1,5 @@
+The project contains the following files:
+
 The project consists of two parts:
 
 1) A simulation exercise.
